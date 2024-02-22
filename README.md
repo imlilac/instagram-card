@@ -23,4 +23,4 @@ Users should be able to:
 
 ## Author
 
--  Github - [ililac](https://github.com/ililac)
+-  Github - [ililac](https://github.com/imlilac)
