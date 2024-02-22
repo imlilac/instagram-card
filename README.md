@@ -1,6 +1,6 @@
 # Instagram Post
 
-![logo](https://github.com/ililac/instagram-card/img/banner.jpg)
+![logo](https://github.com/imlilac/instagram-card/blob/main/img/banner.jpg)
 
 Designing a simple instagram card using HTML5 & CSS.
 
