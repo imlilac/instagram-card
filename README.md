@@ -4,12 +4,6 @@
 
 Designing a simple instagram card using HTML5 & CSS.
 
-## Table of contents
-
--  [The challenge](#the-challenge)
--  [Screenshot](#screenshot)
--  [Built with](#built-with)
-
 ## Challenge
 
 Users should be able to:
